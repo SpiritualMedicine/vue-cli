@@ -52,7 +52,7 @@
     "eslint-plugin-vuejs-accessibility": "^1.1.0",
     "geckodriver": "^3.0.1",
     "globby": "^11.0.2",
-    "graphql": "^15.5.0",
+    "graphql": "^16.9.0",
     "http-server": "^0.12.3",
     "inquirer": "^8.0.0",
     "jest": "^27.0.6",
