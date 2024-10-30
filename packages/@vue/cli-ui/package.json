@@ -47,7 +47,7 @@
     "fs-extra": "^9.1.0",
     "globby": "^11.0.2",
     "graphql": "^16.9.0",
-    "graphql-subscriptions": "^1.2.0",
+    "graphql-subscriptions": "^2.0.0",
     "graphql-tag": "^2.10.3",
     "graphql-type-json": "^0.3.1",
     "javascript-stringify": "^2.0.1",
